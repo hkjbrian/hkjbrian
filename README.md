@@ -84,13 +84,4 @@
 
 <br/>
 
-<div align="center">
-  
-### 🎉🎉
-<div >
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wowhkj)](https://solved.ac/wowhkj/)
-  
-</div>
-
 </div>
