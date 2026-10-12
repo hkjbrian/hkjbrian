@@ -80,8 +80,12 @@
 
 | Date | Certificate | Level | Issued by |
 |---|---|---|---|
-| 2023.03.24 | ADsP | Associate Data Analyst | 한국데이터산업진흥원 |
+| 2026.09.11 | 정보처리기사 | 기사 | 한국산업인력공단 |
+| 2026.06.19 | SQLD |  | 한국데이터산업진흥원 |
 | 2025.06.29 | TOEIC | 860 | ETS |
+| 2023.03.24 | ADsP | Associate Data Analyst | 한국데이터산업진흥원 |
+
+
 
 
 <br/>
