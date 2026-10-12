@@ -55,10 +55,11 @@
 
 | Period | Type | Project | Description | Remarks |
 |---|---|---|---|---|
+| 26.04 ~ ongoing | **⭐️ Core** | [gongu](https://github.com/hkjbrian/gongu) | 공동구매 이커머스 플랫폼 | |
 | 26.01 ~ 26.03 | **⭐️ Core** | [raise-developer](https://github.com/100-hours-a-week/1-team-one-be) | 개발자를 위한 게이미피케이션 건강 어플 | |
-| 25.07 ~ 25.08 | **⭐️ Core** | [Senicle](https://github.com/hkjbrian/Team3-SockThree) | 시니어를 위한 강의 플랫폼 | |
-| 25.09 ~ 25.12 | **⭐️ Core** | [Framelog](https://github.com/hkjbrian/KTB3_brian_Full_Community) | SNS 서버 개발 | 풀스택 개발 |
-| 24.09 ~ 24.12 | **⭐️ Core** | [E4U](https://github.com/hkjbrian/BE/tree/main) | 멀티모달을 활용한 구강 검진 서비스 | 경진대회 우수상 수상 |
+| 25.07 ~ 25.08 | **✨ Peripheral** | [Senicle](https://github.com/hkjbrian/Team3-SockThree) | 시니어를 위한 강의 플랫폼 | |
+| 25.09 ~ 25.12 | **✨ Peripherale** | [Framelog](https://github.com/hkjbrian/KTB3_brian_Full_Community) | SNS 서버 개발 | 풀스택 개발 |
+| 24.09 ~ 24.12 | **✨ Peripheral** | [E4U](https://github.com/hkjbrian/BE/tree/main) | 멀티모달을 활용한 구강 검진 서비스 | 경진대회 우수상 수상 |
 | 25.12 ~ 25.12 | **🏆 Contest** | [부하테스트 대회](https://github.com/Team-Nyong/KTB-Chat-Load-Testing) | 채팅 서버의 성능 개선 대회 | 4강 진출 |
 | 25.07 ~ 25.07 | **🌱 Side** | [WAS](https://github.com/hkjbrian/be-was-2025) | SNS 서버 개발 | 자바만을 활용한 웹서버 구성 |
 | 25.03 ~ ongoing | **🌱 Side** | [Terbuck](https://github.com/hkjbrian/Terbuck-Server) | 지도 기반 대학 제휴 업체 정보 제공 앱  | 실 사용자 300 + |
