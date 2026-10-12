@@ -12,7 +12,7 @@
 <br></br>
 현상의 원인을 짚어내고 근본적인 개선을 이끌어내는 이 여정을 이제 여러분과 함께하고 싶습니다.
 
-[포트폴리오 보러가기](https://drive.google.com/file/d/1ypkN8zVQXfDfMk8LHzwsKLzB4ic6roY8/view?usp=sharing)
+[이력서 보러가기]() [포트폴리오 보러가기](https://drive.google.com/file/d/1ypkN8zVQXfDfMk8LHzwsKLzB4ic6roY8/view?usp=sharing) 
 <br></br>
 
 ## 💻 Stack 💻
